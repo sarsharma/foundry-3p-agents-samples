@@ -1,0 +1,13 @@
+flask
+langchain
+langchain-openai
+langchain-core
+langgraph
+requests
+python-dotenv>=1.0.1
+gunicorn
+typing-extensions
+azure-monitor-opentelemetry
+opentelemetry-sdk
+opentelemetry-instrumentation-flask
+langchain-azure-ai[opentelemetry]
